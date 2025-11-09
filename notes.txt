@@ -1,0 +1,22 @@
+Simple Hostel Meal-Bill System
+
+
+1. +
+    -Enter room number and click <Save> button (Add new room no)
+    -Close or cancel page by clicking <Cancel> button
+
+2. Add Info
+    -Add student information for hostel meal-bill system
+
+3. Update Info
+    -First select any data from the table and click the <Update Info> button
+
+4. Delete Info
+    -First select any data from the table and click the <Delete Info> button
+
+5. CSV File
+    -Create a CSV file of the hostel bill system named 'bill_info.csv'
+
+6. Search Info
+    -Search for show the hostel meal-bill system data based on date
+    -Enter mobile number and search for show the hostel meal-bill system data of a student
